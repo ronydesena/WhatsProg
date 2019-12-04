@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1544641448 source:c:\users\c6-prof\downloads\whatsprog_servidor\mysocket.cpp
+	<iostream>
+	"mysocket.h"
+
+1512677154 c:\users\c6-prof\downloads\whatsprog_servidor\mysocket.h
+	<iostream>
+	<cstdlib>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<string>
+
+1512677154 source:c:\users\c6-prof\downloads\whatsprog_servidor\whatsprogdata.cpp
+	"whatsprogData.h"
+
+1512677154 c:\users\c6-prof\downloads\whatsprog_servidor\whatsprogdata.h
+	<string>
+	<stdint.h>
+
+1544649039 source:c:\users\c6-prof\downloads\whatsprog_servidor\serverdata.cpp
+	"serverData.h"
+
+1544648948 c:\users\c6-prof\downloads\whatsprog_servidor\serverdata.h
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<stdint.h>
+	"whatsprogData.h"
+	"mysocket.h"
+
+1512677154 source:c:\users\c6-prof\downloads\whatsprog_servidor\whatsprog_server.cpp
+	"serverData.h"
+
+1549886776 source:c:\users\matrizsestudo2019.1\desktop\projeto_final\whatsprog_servidor\mysocket.cpp
+	<iostream>
+	"mysocket.h"
+
+1549886776 c:\users\matrizsestudo2019.1\desktop\projeto_final\whatsprog_servidor\mysocket.h
+	<iostream>
+	<cstdlib>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<string>
+
+1549886774 source:c:\users\matrizsestudo2019.1\desktop\projeto_final\whatsprog_servidor\serverdata.cpp
+	"serverData.h"
+
+1549886776 c:\users\matrizsestudo2019.1\desktop\projeto_final\whatsprog_servidor\serverdata.h
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<stdint.h>
+	"whatsprogData.h"
+	"mysocket.h"
+
+1549886776 c:\users\matrizsestudo2019.1\desktop\projeto_final\whatsprog_servidor\whatsprogdata.h
+	<string>
+	<stdint.h>
+
+1575466840 source:c:\users\matrizsestudo2019.1\desktop\projeto_final\whatsprog_servidor\whatsprog_server.cpp
+	"serverData.h"
+
+1549886774 source:c:\users\matrizsestudo2019.1\desktop\projeto_final\whatsprog_servidor\whatsprogdata.cpp
+	"whatsprogData.h"
+
