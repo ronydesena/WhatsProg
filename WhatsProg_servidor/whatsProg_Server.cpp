@@ -6,7 +6,9 @@ Server server;
 tcp_winsocket_server server_socket;
 
 DWORD WINAPI server_brain(LPVOID lpParameter){
+    cout << "=============================================" << endl;
     cout << "SERVIDOR DO SOFTWARE WHATSPROG" << endl;
+    cout << "=============================================" << endl;
     while (1) {
         server.checkConnectedClients();
         server.waitingActivity();

@@ -65,3 +65,36 @@
 1549886774 source:c:\users\matrizsestudo2019.1\desktop\projeto_final\whatsprog_servidor\whatsprogdata.cpp
 	"whatsprogData.h"
 
+1575482966 source:c:\users\ufrn.desktop-nlg9lbr\desktop\whatsprog-master\whatsprog_servidor\mysocket.cpp
+	<iostream>
+	"mysocket.h"
+
+1575482966 c:\users\ufrn.desktop-nlg9lbr\desktop\whatsprog-master\whatsprog_servidor\mysocket.h
+	<iostream>
+	<cstdlib>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<string>
+
+1575937830 source:c:\users\ufrn.desktop-nlg9lbr\desktop\whatsprog-master\whatsprog_servidor\whatsprog_server.cpp
+	"serverData.h"
+
+1575482966 c:\users\ufrn.desktop-nlg9lbr\desktop\whatsprog-master\whatsprog_servidor\serverdata.h
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<stdint.h>
+	"whatsprogData.h"
+	"mysocket.h"
+
+1575482966 c:\users\ufrn.desktop-nlg9lbr\desktop\whatsprog-master\whatsprog_servidor\whatsprogdata.h
+	<string>
+	<stdint.h>
+
+1575482966 source:c:\users\ufrn.desktop-nlg9lbr\desktop\whatsprog-master\whatsprog_servidor\whatsprogdata.cpp
+	"whatsprogData.h"
+
+1575937715 source:c:\users\ufrn.desktop-nlg9lbr\desktop\whatsprog-master\whatsprog_servidor\serverdata.cpp
+	"serverData.h"
+

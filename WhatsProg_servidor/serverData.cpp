@@ -40,10 +40,10 @@ void Server::checkConnectedClients(){
     connected_sockets.clean();
     if (server_socket.accepting()){
         connected_sockets.include(server_socket);
-        cout << endl << "USUARIOS CONECTADOS" << endl;
+        cout << endl << "USUARIOS CONECTADOS NO SERVIDOR" << endl;
         for (list<User>::iterator it=users.begin(); it != users.end(); ++it){
             if (it->getSocket().connected()){
-               cout << it->getLogin() << " connected" << endl;
+               cout << it->getLogin() << " estah conectado" << endl;
                 connected_sockets.include(it->getSocket());
             }
         }
